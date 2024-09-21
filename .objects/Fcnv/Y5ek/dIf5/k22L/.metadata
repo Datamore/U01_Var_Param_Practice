@@ -1,0 +1,13 @@
+﻿{
+  "Name": "单击 'TD'",
+  "Type": "Element",
+  "Id": "k22LdGZYmUGXd90lubhZaQ",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/k22LdGZYmUGXd90lubhZaQ",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-16T12:10:58.6525535Z",
+  "Updated": "2024-09-16T12:10:58.6525535Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

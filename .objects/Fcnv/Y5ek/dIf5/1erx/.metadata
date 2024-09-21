@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Button '登录---云'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1erxGKuV60WWOydxKUGynw",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/1erxGKuV60WWOydxKUGynw",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-15T22:07:33.1287957Z",
+  "Updated": "2024-09-15T22:07:33.1287957Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

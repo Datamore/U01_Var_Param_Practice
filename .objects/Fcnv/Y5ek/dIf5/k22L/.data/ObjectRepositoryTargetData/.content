@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zj1BowycYUqNXakgFvVR4w" Reference="hNGa2gAA30KKfK5N7i1Okg/k22LdGZYmUGXd90lubhZaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" CVScreenId="1e6a961e-3f93-4442-b139-388ab80759f0" CvElementArea="210, 545, 24, 23" CvType="RadioButton" DesignTimeRectangle="164, 537, 118, 40" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='app-list-chose ng-scope' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' /&gt;" Guid="05900c8d-7420-4386-94ca-18f0b89795a5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="1e6a961e-3f93-4442-b139-388ab80759f0" CvElementArea="161, 453, 64, 34" CvTextArea="178, 462, 29, 16" CvTextArgument="T¿" CvType="Button" DesignTimeRectangle="163, 455, 60, 30" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='ng-binding' tag='BUTTON' type='' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;下载 &amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='下载' /&gt;" Guid="9e707707-d5ce-4f88-8a70-02d794d44256" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="82fc2784759aa377902f8043dfb77f73.png" xmlns="">05TlgXk_zwk-l5vWgNs43iA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

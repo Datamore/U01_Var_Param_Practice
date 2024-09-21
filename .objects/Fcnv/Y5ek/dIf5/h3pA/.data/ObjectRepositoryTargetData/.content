@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MRCe1ddgSk2EEu45hb36cA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/login" DesignTimeRectangle="1563, 630, 80, 36" DesignTimeScaleFactor="1" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl id='vCode' tag='IMG' type='' class='' aaname='验证码' /&gt;" Guid="2278d660-876d-4e4f-90ef-8c16f2dadee3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1308, 625, 340, 46" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='inputCode' tag='INPUT' type='text' class='ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength' placeholder='请输入验证码' aaname='' /&gt;" Guid="61cc2b5e-347c-4aa7-98d8-3933dba47eff" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="860b82e72ae439272f5609266e0f2a43.png" xmlns="">0tqD3SsQa6kes6tfUUdu2LA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

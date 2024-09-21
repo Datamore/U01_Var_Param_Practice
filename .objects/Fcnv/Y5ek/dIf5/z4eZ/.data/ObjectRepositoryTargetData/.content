@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YyN5OFpljkmmf_IZhuGMHA" Reference="hNGa2gAA30KKfK5N7i1Okg/z4eZUVprYUWbFMMvD0p31g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/login" DesignTimeRectangle="1308, 599, 340, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='inputCode' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl name='inputCode' tag='INPUT' type='text' class='ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength' placeholder='请输入验证码' aaname='' /&gt;" Guid="594920c8-3d70-4b2e-b280-28fddb787849" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="65fe8af4f259e9be69bc670f7bf3533f.png" xmlns="">0D9o6zqSW_UGn-IbnzAnKOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6wlWS8a5-0ClJVFvtYnb7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/login" CVScreenId="d80b7c2b-6aad-48b5-ad1c-5ac23943d102" CvElementArea="1561, 599, 83, 39" CvTextArea="1571, 607, 58, 24" CvTextArgument="H89T" CvType="Button" DesignTimeRectangle="1563, 600, 80, 36" DesignTimeScaleFactor="1" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='vCode' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='vCode' tag='IMG' type='' class='' aaname='验证码' /&gt;" Guid="24562b18-7b2e-4704-81f2-7aa6e27547ff" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="586313de6826fdbf5bd11569b354c938.png" xmlns="">0jjkvHGx_j0G0dubCAA6l3Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

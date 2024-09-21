@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Take Screenshot 'IMG vCode'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "6T_SpiLGY0ebL8MBvw7HaQ",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/6T_SpiLGY0ebL8MBvw7HaQ",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-15T13:06:45.7556731Z",
+  "Updated": "2024-09-15T13:06:45.7556731Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

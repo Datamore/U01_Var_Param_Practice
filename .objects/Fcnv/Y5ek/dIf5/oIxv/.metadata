@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click '下载'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "oIxv3OMcx0W9_zrSUgmFxA",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/oIxv3OMcx0W9_zrSUgmFxA",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-16T03:44:17.6240524Z",
+  "Updated": "2024-09-16T03:44:17.6240524Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

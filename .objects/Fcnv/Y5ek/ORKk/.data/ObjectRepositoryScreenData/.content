@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="KwtjPhxxcEOJmnjuHtZ1sA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAACXElEQVRoQ+2WzVFCQRCECYGrB6sIgRAMwRC4ejMEMjAEQiAEQjAEQiAE7W+cfizLk4JXolXWdFW7f7OzPbPzFmeFQqFQKBQKhcIRD48vS3Et7sR38SN5yLmtyPoyt/wNJGAuvop70SIhInu26wTyJv5uADrwWbRYi3jK5VGwnnZtkAR0cd8kyOlCRCTX6xLgQA5fpdlN0D78tTfwM+Jxks7s2M7hJLE95IdvYSPaP4mg5BZpcj20iWu0k9UkJzcA/2JfOnzQ3CzJm6fpONKQTeucYo6P7q7CDZ3TvkQOAPolIrijFgYiBnH9atncRs9GrnM0cs1zID7O1i/NZzta05p3EIjl6bSWrxJVB0Hbpm+DnlzdIEB91zpBwX0uDdBcXHUOAxpzg/iijp1J6KRRGk4coulj6/Jd+XAyQh1boLOLIX3Pb+JkIefZ62wMQeU85GDmwy7X/Cox57Uda0B9tPiHiXWCiPddLRoPdOwMA4uDjNls0W7JlN9si3IAJ9+AxnF4DgcwJ5I9WnjyMmnMOfiz32Fd/S1/4vrUWqzFIYgoPW9xEbmIM0TRcitDtoDGtmHfyS+hxuxrS42xs8k+zoDsjX4YCuofvxENLI6DaBGIM8/Tb0XjEJIxSN/l4TF2kARExtVGTdM3NMa/1ykB30Dsg2HYQwsWa7KhbU0ObbPR0qI5uM1klFTT7z9Oyu3s/xLNnZTNGTAQLYyMjomOD1Et0XuuZx9kP57EEDkGLV715Km9RTT72vEkhsDvIAMy3h5M1nnW2uvmWRorj7sxjy4UCoVCoVAo/FPMZp/0mikeu4eaKgAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='预约系统' /&gt;" Title="预约系统" Url="http://dj.auto1768.cn:8101/#!/order/totalList">
+      <imageRef attrName="InformativeScreenshot" originalValue="79ba21e3a0732a88185001bce9cfdb15.jpg" xmlns="">0ROTsjLYz5U2_2fmcoq1ZNg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

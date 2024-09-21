@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YV8ER9_n_UWwkyizUKkWSA" Reference="hNGa2gAA30KKfK5N7i1Okg/L0cr-53xxUOn857LEkFKWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/login" CVScreenId="471daf8f-0203-4f04-980b-23328cd3184f" CvTextArea="543, 622, 274, 16" CvTextArgument="f*4N3E#E? FienkS*geR" CvType="Text" DesignTimeRectangle="545, 622, 340, 16" DesignTimeScaleFactor="1" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl class='change-login-type-container' tag='LI' type='' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;暂未绑定手机号？点击用帐号密码登录 &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='暂未绑定手机号？点击用帐号密码登录' /&gt;" Guid="5088f8ed-4049-4eca-b293-f2b8d4d3150a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d8e30ffeaf40e8939a5a25d34640553b.png" xmlns="">0TEiVEZx_i0Kwzcarbo42cQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

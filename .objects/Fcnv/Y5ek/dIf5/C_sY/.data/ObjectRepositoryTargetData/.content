@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2cJYs58edkC1tPbDFCVxCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" CVScreenId="54655d0d-4353-420d-a73e-1ae50904937d" DesignTimeRectangle="163, 507, 60, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='预约系统' role='document' /&gt;&lt;ctrl name='下载' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='预约系统' role='document' /&gt;&lt;ctrl name='下载' role='push button' automationid='' check:text='下载' /&gt;" Guid="a8964aef-93c0-47d6-bfd8-c3240e21b28c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='预约系统 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1c5a76c947256289bcda3e6dfae2dcf6.png" xmlns="">0xlgssUcN3k-fuPutCJ5kdA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "单击 '下载'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1I1VwAxTKEK1jvlSy1eRdQ",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/1I1VwAxTKEK1jvlSy1eRdQ",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/ORKkV35h20y0uFYfPo09sg",
+  "Created": "2024-09-16T12:21:02.3898619Z",
+  "Updated": "2024-09-16T12:21:02.3898619Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

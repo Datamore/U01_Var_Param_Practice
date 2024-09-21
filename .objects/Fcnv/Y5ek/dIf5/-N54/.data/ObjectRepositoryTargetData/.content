@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W7mXSgGhg02C9vtQUhhcng" Reference="hNGa2gAA30KKfK5N7i1Okg/-N54k8SvWkiLiHvimg20Uw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" CVScreenId="605e3ef4-6a93-4e2e-89ad-1f944dd843aa" CvElementArea="210, 545, 24, 23" CvType="RadioButton" DesignTimeRectangle="213, 546, 20, 21" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='I' class='iconfont select radio-n' aaname='' /&gt;" Guid="ade373db-a138-43d6-a729-83b3f2f0fc2e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7a1acaea12d1da3ba4033622acbd5366.png" xmlns="">03pJRNZ906ESvWr-FaCWWmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

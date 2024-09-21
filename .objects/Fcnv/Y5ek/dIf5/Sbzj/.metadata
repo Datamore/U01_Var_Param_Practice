@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'Click '订单管理''",
+  "Type": "Element",
+  "Id": "SbzjzFeSxECOButNnDLK5g",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/SbzjzFeSxECOButNnDLK5g",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-16T01:15:13.3738628Z",
+  "Updated": "2024-09-16T01:15:13.3738628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

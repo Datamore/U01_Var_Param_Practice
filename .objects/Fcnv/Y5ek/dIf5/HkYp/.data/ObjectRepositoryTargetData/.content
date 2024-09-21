@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XqQ9cu99q0OiX6MHda75sw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/login" CVScreenId="2c0cfd5f-5254-4a50-9638-08b9dbee44ec" CvElementArea="566, 865, 343, 48" CvType="InputBox" DesignTimeRectangle="568, 867, 340, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength' placeholder='请输入用户名' aaname='' /&gt;" Guid="a637e371-480f-4da1-8acb-3f34ebbbb706" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9249e070daa4e9763aa26e0af37d4523.png" xmlns="">0i2Z13wcgPE6Aa4M69oP6CQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

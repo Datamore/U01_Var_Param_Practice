@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 预约系统",
+  "Type": "Screen",
+  "Id": "ORKkV35h20y0uFYfPo09sg",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/ORKkV35h20y0uFYfPo09sg",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/Y5ek8THRFEeYjtpaVY6g-Q",
+  "Created": "2024-09-16T12:21:02.1494077Z",
+  "Updated": "2024-09-16T12:21:02.1494077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

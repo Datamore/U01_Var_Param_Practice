@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DxLsIu-06UaCu4M9C15q0Q" Reference="hNGa2gAA30KKfK5N7i1Okg/oIxv3OMcx0W9_zrSUgmFxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" DesignTimeRectangle="163, 499, 60, 30" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='ng-binding' tag='BUTTON' type='' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;下载 &amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='下载' /&gt;" Guid="d12b15b1-bdfd-4320-adeb-a149e92697d6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a468bc244e42edf3b7897060ae0b864.png" xmlns="">0cUf92nOcvUWH5KksOu7xJA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

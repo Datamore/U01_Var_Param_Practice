@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QPvEBg1Yv0-Os96A6fCnyA" Reference="hNGa2gAA30KKfK5N7i1Okg/1I1VwAxTKEK1jvlSy1eRdQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" CVScreenId="3d710ff4-28d8-48a8-b3e5-1376a142642e" CvElementArea="161, 453, 64, 34" CvTextArea="178, 462, 29, 16" CvTextArgument="T¿" CvType="Button" DesignTimeRectangle="163, 455, 60, 30" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='ng-binding' tag='BUTTON' type='' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;下载 &amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='下载' /&gt;" Guid="72b808d1-ad6f-4e99-b892-acbdc196cd84" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="3d710ff4-28d8-48a8-b3e5-1376a142642e" CvElementArea="888, 377, 123, 44" CvTextArea="929, 389, 38, 20" CvTextArgument="Éfia" CvType="Button" DesignTimeRectangle="890, 379, 120, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='查询' tag='BUTTON' type='' class='ng-binding ng-scope btn-blue' check:innerText='查询' /&gt;" Guid="46e8dd83-5771-4962-94f5-e20bd393880b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0aefef3edac627c6829b3d4df5d4ee73.png" xmlns="">02MmKKawaiEmFQsEG3DAEEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

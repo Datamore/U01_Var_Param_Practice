@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click '暂未绑定手机号？点击用帐号密码登录'",
+  "Type": "Element",
+  "Id": "L0cr-53xxUOn857LEkFKWA",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/L0cr-53xxUOn857LEkFKWA",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-13T13:38:17.1702167Z",
+  "Updated": "2024-09-13T13:38:17.1702167Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "获取文本 'IMG vCode'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "h3pAdcMWe0GpSdQ3ooZSJQ",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/h3pAdcMWe0GpSdQ3ooZSJQ",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-15T01:17:44.1932111Z",
+  "Updated": "2024-09-15T01:17:44.1932111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

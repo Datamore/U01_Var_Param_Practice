@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'chrome.exe 预约系统'",
+  "Type": "Element",
+  "Id": "hlaRZfkLHkiJ2tc14kr4BA",
+  "Reference": "hNGa2gAA30KKfK5N7i1Okg/hlaRZfkLHkiJ2tc14kr4BA",
+  "ParentRef": "hNGa2gAA30KKfK5N7i1Okg/dIf530ACUkyVJu9OuVkiyg",
+  "Created": "2024-09-16T04:08:24.3107925Z",
+  "Updated": "2024-09-16T04:08:24.3107925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

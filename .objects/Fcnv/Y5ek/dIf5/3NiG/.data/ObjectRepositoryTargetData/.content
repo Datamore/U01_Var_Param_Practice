@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VFNi5AgpsUCnb0IvvoKBtw" Reference="hNGa2gAA30KKfK5N7i1Okg/3NiGrW22d0mVT6GOkDwxcg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://dj.auto1768.cn:8101/#!/taskCenter/exportManagement" DesignTimeRectangle="213, 590, 20, 21" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='I' class='iconfont select radio-n' aaname='' /&gt;" Guid="cb720cc3-814e-4cfd-9093-989d2d8400ce" ScopeSelectorArgument="&lt;html app='chrome.exe' title='预约系统' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="109f85964571eb3a37937d131a9be3ed.png" xmlns="">0H6T5meZkPEOuLOhr2Ps6Iw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
