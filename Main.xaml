@@ -176,6 +176,6 @@
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,177" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;Now in the main section&quot;]" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="434,115" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[(Result).ToString()]" />
+    <WriteLine DisplayName="Write Line命令行" sap:VirtualizedContainerService.HintSize="434,115" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[(Result).ToString()]" />
   </Sequence>
 </Activity>
